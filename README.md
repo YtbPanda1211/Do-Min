@@ -1,3 +1,3 @@
-# Do-Min
+# MineSweeper Game
 # Game Dò Mìn
 
